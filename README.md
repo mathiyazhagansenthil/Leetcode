@@ -19,4 +19,12 @@
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/mathiyazhagansenthil/Leetcode/tree/master/0118-pascals-triangle) |
+## Math
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/mathiyazhagansenthil/Leetcode/tree/master/0326-power-of-three) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/mathiyazhagansenthil/Leetcode/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
