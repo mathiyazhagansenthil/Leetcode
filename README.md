@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/mathiyazhagansenthil/Leetcode/tree/master/0118-pascals-triangle) |
+| [0219-contains-duplicate-ii](https://github.com/mathiyazhagansenthil/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0414-third-maximum-number](https://github.com/mathiyazhagansenthil/Leetcode/tree/master/0414-third-maximum-number) |
 | [0575-distribute-candies](https://github.com/mathiyazhagansenthil/Leetcode/tree/master/0575-distribute-candies) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/mathiyazhagansenthil/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -12,6 +13,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/mathiyazhagansenthil/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0575-distribute-candies](https://github.com/mathiyazhagansenthil/Leetcode/tree/master/0575-distribute-candies) |
 ## Greedy
 |  |
@@ -37,4 +39,8 @@
 |  |
 | ------- |
 | [0882-peak-index-in-a-mountain-array](https://github.com/mathiyazhagansenthil/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/mathiyazhagansenthil/Leetcode/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
