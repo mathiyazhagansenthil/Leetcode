@@ -10,6 +10,7 @@
 | [0575-distribute-candies](https://github.com/mathiyazhagansenthil/Leetcode/tree/master/0575-distribute-candies) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/mathiyazhagansenthil/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [2459-minimum-hours-of-training-to-win-a-competition](https://github.com/mathiyazhagansenthil/Leetcode/tree/master/2459-minimum-hours-of-training-to-win-a-competition) |
+| [3702-maximum-subarray-with-equal-products](https://github.com/mathiyazhagansenthil/Leetcode/tree/master/3702-maximum-subarray-with-equal-products) |
 ## Hash Table
 |  |
 | ------- |
@@ -27,6 +28,7 @@
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/mathiyazhagansenthil/Leetcode/tree/master/0326-power-of-three) |
+| [3702-maximum-subarray-with-equal-products](https://github.com/mathiyazhagansenthil/Leetcode/tree/master/3702-maximum-subarray-with-equal-products) |
 ## Recursion
 |  |
 | ------- |
@@ -43,4 +45,13 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/mathiyazhagansenthil/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [3702-maximum-subarray-with-equal-products](https://github.com/mathiyazhagansenthil/Leetcode/tree/master/3702-maximum-subarray-with-equal-products) |
+## Enumeration
+|  |
+| ------- |
+| [3702-maximum-subarray-with-equal-products](https://github.com/mathiyazhagansenthil/Leetcode/tree/master/3702-maximum-subarray-with-equal-products) |
+## Number Theory
+|  |
+| ------- |
+| [3702-maximum-subarray-with-equal-products](https://github.com/mathiyazhagansenthil/Leetcode/tree/master/3702-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
