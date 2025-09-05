@@ -32,6 +32,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/mathiyazhagansenthil/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0326-power-of-three](https://github.com/mathiyazhagansenthil/Leetcode/tree/master/0326-power-of-three) |
 ## Sorting
 |  |
@@ -54,4 +55,8 @@
 |  |
 | ------- |
 | [3702-maximum-subarray-with-equal-products](https://github.com/mathiyazhagansenthil/Leetcode/tree/master/3702-maximum-subarray-with-equal-products) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/mathiyazhagansenthil/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
